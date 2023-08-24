@@ -1,3 +1,3 @@
 import random
-print ("fcuk")
-print (random.randint(0, 1000))
+print ("Your height is", random.randint(140, 210))
+print ("Wow!")
